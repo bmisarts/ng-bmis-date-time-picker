@@ -1,0 +1,9 @@
+/.angular
+/coverage
+*.tsconfig.json
+.git
+node_modules
+dist
+*.log
+*.ts
+*.spec.ts

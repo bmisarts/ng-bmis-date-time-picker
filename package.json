@@ -1,0 +1,33 @@
+{
+  "name": "ng-bmis-date-time-picker",
+  "version": "1.0.0",
+  "description": "A customizable Angular date-time picker component for modern web applications.",
+  "main": "index.js",
+  "scripts": {
+    "test": "ng test",
+    "build": "tsc"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bmisarts/ng-bmis-date-time-picker.git"
+  },
+  "keywords": [
+    "angular",
+    "date-time-picker",
+    "date picker",
+    "time picker",
+    "ng-bmis",
+    "angular component"
+  ],
+  "module": "dist/ng-bmis-date-time-picker/fesm2015/ng-bmis-date-time-picker.js",
+  "peerDependencies": {
+    "@angular/core": "^14.0.0 || ^15.0.0",
+    "@angular/common": "^14.0.0 || ^15.0.0"
+  },
+  "author": "Gilles Kemgoum <gilleskemgoum@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bmisarts/ng-bmis-date-time-picker/issues"
+  },
+  "homepage": "https://github.com/bmisarts/ng-bmis-date-time-picker#readme"
+}
