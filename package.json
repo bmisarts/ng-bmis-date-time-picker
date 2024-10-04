@@ -1,6 +1,6 @@
 {
   "name": "ng-bmis-date-time-picker",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "A customizable Angular date-time picker component for modern web applications.",
   "main": "index.js",
   "scripts": {
@@ -18,6 +18,13 @@
     "time picker",
     "ng-bmis",
     "angular component"
+  ],
+  "files": [
+    "src/",
+    "dist/",
+    "README.md",
+    "LICENSE",
+    "package.json"
   ],
   "module": "dist/ng-bmis-date-time-picker/fesm2015/ng-bmis-date-time-picker.js",
   "peerDependencies": {

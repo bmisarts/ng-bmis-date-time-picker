@@ -5,5 +5,4 @@
 node_modules
 dist
 *.log
-*.ts
 *.spec.ts
